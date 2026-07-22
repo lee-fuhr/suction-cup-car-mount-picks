@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reviews.leefuhr.com/suction-cup-car-mount-picks/sitemap.xml
